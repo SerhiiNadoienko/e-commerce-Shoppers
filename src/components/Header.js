@@ -13,9 +13,9 @@ const Header = () => {
 
             <div className="col-6">
               <p className="text-end text-white mb-0">
-                Hotline:
+                Hotline:{' '}
                 <a className="text-white" href="tel:+91 82923212">
-                  +91 82923212
+                  +48 730-394-832
                 </a>
               </p>
             </div>
@@ -141,5 +141,3 @@ const Header = () => {
 };
 
 export default Header;
-
-/* 49.39 */

@@ -42,22 +42,22 @@ const Footer = () => {
                   PinCode: 131103
                 </address>
                 <a href="tel:+91 292030404" className="mt-3 d-block mb-1 text-white">
-                  +91 292030404
+                  +48 730-394-832
                 </a>
                 <a href="mailto:sergenadoenko@gmail.com" className="mt-2 d-block mb-0 text-white">
                   sergenadoenko@gmail.com
                 </a>
                 <div className="social_icons d-flex align-items-center gap-30 mt-4">
-                  <a href="">
+                  <a href="https://www.linkedin.com/in/srh-ndk/">
                     <BsLinkedin className="text-white fs-4" />
                   </a>
-                  <a href="">
+                  <a href="https://www.instagram.com/srh.ndk/">
                     <BsInstagram className="text-white fs-4" />
                   </a>
-                  <a href="">
+                  <a href="https://github.com/SerhiiNadoienko">
                     <BsGithub className="text-white fs-4" />
                   </a>
-                  <a href="">
+                  <a href="#">
                     <BsYoutube className="text-white fs-4" />
                   </a>
                 </div>
